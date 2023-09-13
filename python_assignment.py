@@ -24,9 +24,10 @@ if __name__ == '__main__':
 
     print(total)
 
-    print('total consumption value')
+    print('total consumption value:')
 
     print(total_value)
+    print('wind production:')
     print(production_wind_value)
     print('The percentage of consumption that could be covered by wind:')
     print(production_wind_value/total_value*100)
